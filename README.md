@@ -53,8 +53,6 @@ A modern, interactive Streamlit dashboard for analyzing crime patterns and trend
    ```bash
    streamlit run app.py
    ```
-4. **Open in browser:**
-   Visit [http://localhost:8501](http://localhost:8501)
 
 ---
 
@@ -75,5 +73,3 @@ A modern, interactive Streamlit dashboard for analyzing crime patterns and trend
 MIT License
 
 ---
-
-> **Note:** Replace the screenshot file names and update the GitHub repo URL as needed. Place your screenshots in a `screenshots/` folder at the project root.
